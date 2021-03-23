@@ -27,19 +27,19 @@ const sections = [
       cards:[{image:'/images/mysql-350.jpg',
       title:'Transactional Databases',
       para:'Querying and manipulating data from various RDBMS, including Microsoft SQL Server, Oracle, SQLite, MariaDB, PostgreSQL and MySQL.',
-      link: 'project-grid/index.html'},
+      link: 'https://github.com/phmaa/scripts'},
       {image:'/images/diagram-350.jpg',
       title:'OLAP Databases',
       para:'Configured SSIS and used the ETL component to design tasks that feed data from disparate data sources into the data warehouse.',
-      link: 'project-grid/index.html'},
+      link: '#'},
       {image:'/images/package-350.jpg',
       title:'Data Integration',
       para:'Built packages of automated workflows through ETL process and piped data off to a wide range of file types and destinations.',
-      link: 'https://phmaa.github.io/projectHD/'},
+      link: '#'},
       {image:'/images/salon-350.jpg',
       title:'Data Reporting',
-      para:'Using pure CSS code to create responsive navigation, flexible images and dynamic text.',
-      link: 'https://phmaa.github.io/Brand_Salon/'}]
+      para:'reated enhanced SSRS reports for analytical purposes to make informed business decisions.',
+      link: '#'}]
   }];
 
 function Project() {
