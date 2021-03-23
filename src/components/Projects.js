@@ -27,7 +27,7 @@ const sections = [
       cards:[{image:'/images/mysql-350.jpg',
       title:'Transactional Databases',
       para:'Querying and manipulating data from various RDBMS, including Microsoft SQL Server, Oracle, SQLite, MariaDB, PostgreSQL and MySQL.',
-      link: 'https://github.com/phmaa/scripts'},
+      link: 'https://phmaa.github.io/scripts'},
       {image:'/images/diagram-350.jpg',
       title:'OLAP Databases',
       para:'Configured SSIS and used the ETL component to design tasks that feed data from disparate data sources into the data warehouse.',
