@@ -38,7 +38,7 @@ const sections = [
       link: '#'},
       {image:'/images/report-350.jpg',
       title:'Data Reporting',
-      para:'reated enhanced SSRS reports for analytical purposes to make informed business decisions.',
+      para:'Created enhanced SSRS reports for analytical purposes to make informed business decisions.',
       link: '#'}]
   }];
 
