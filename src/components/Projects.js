@@ -36,7 +36,7 @@ const sections = [
       title:'Data Integration',
       para:'Built packages of automated workflows through ETL process and piped data off to a wide range of file types and destinations.',
       link: '#'},
-      {image:'/images/report2.jpg',
+      {image:'/images/temp-350.jpg',
       title:'Data Reporting',
       para:'Created enhanced SSRS reports for analytical purposes to make informed business decisions.',
       link: 'https://phmaa.github.io/reporting/'}]
