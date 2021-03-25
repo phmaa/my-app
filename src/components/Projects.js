@@ -36,7 +36,7 @@ const sections = [
       title:'Data Integration',
       para:'Built packages of automated workflows through ETL process and piped data off to a wide range of file types and destinations.',
       link: '#'},
-      {image:'/images/salon-350.jpg',
+      {image:'/images/report-350.jpg',
       title:'Data Reporting',
       para:'reated enhanced SSRS reports for analytical purposes to make informed business decisions.',
       link: '#'}]
@@ -45,7 +45,7 @@ const sections = [
 function Project() {
   return (
     <section id='projects'>
-      { sections.map(element=> <Section title={element.title} 
+      { sections.map(element=> <Section title={element.title}
         id={element.id}
         carddata={element.cards}></Section>)}
     </section>
