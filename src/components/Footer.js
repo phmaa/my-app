@@ -1,9 +1,12 @@
+import React from 'react'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 function Footer() {
   return (
-    <footer>
+    <footer id="contact">
       <h2>Contact Me</h2>
-      <a href="#" target="_blank">GitHub</a>
+      <FontAwesomeIcon icon={['fab', 'github']} />
+      <a href="#" target="_blank"> GitHub</a>
     </footer>
   );
 }
