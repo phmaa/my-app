@@ -38,7 +38,15 @@ const sections = [
       {image:'images/package-350.jpg',
       title:'Data Integration',
       para:'Built packages of automated workflows through ETL process and piped data off to a wide range of file types and destinations.'}]
-  }];
+  },
+  {
+    title:'Progrmming',
+    id:'programming',
+    cards:[{image:'images/mysql-350.jpg',
+    title:'Python',
+    para:'Classical cipher decryption using frequency analysis as well as other techinques like Kasiski test and the index of coincidence.',
+    link: 'https://phmaa.github.io/crypto'}]
+}];
 
 function Project() {
   return (
