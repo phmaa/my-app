@@ -16,10 +16,10 @@ const sections = [
               title:'HD Images',
               para:'Provide the optimal image file to the browser based on device pixel ratio and image size.',
               link: 'https://phmaa.github.io/projectHD/'},
-              {image:'images/salon-350.jpg',
-              title:'Responsive Design',
-              para:'Using pure CSS code to create responsive navigation, flexible images and dynamic text.',
-              link: 'https://phmaa.github.io/Brand_Salon/'}]
+              {image:'images/animation-350.jpg',
+              title:'Animations',
+              para:'Static webpage with a focus on tranforms, transitions, and animations.',
+              link: 'https://phmaa.github.io/animations/'}]
 },
   {
       title:'Databases',
@@ -45,7 +45,16 @@ const sections = [
     cards:[{image:'images/python-350.jpg',
     title:'Python',
     para:'Classical cipher decryption using frequency analysis as well as other techinques like Kasiski test and the index of coincidence.',
-    link: 'https://phmaa.github.io/crypto'}]
+    link: 'https://phmaa.github.io/crypto'},
+    {image:'',
+    title:'Java',
+    para:''},
+    {image:'',
+    title:'Android',
+    para:''},
+    {image:'',
+    title:'JavaScript',
+    para:''}]
 }];
 
 function Project() {
