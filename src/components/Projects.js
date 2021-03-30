@@ -40,7 +40,7 @@ const sections = [
       para:'Built packages of automated workflows through ETL process and piped data off to a wide range of file types and destinations.'}]
   },
   {
-    title:'Progrmming',
+    title:'Programming',
     id:'programming',
     cards:[{image:'images/mysql-350.jpg',
     title:'Python',
