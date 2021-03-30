@@ -42,22 +42,10 @@ const sections = [
   {
     title:'Programming',
     id:'programming',
-    cards:[{image:'images/mysql-350.jpg',
+    cards:[{image:'images/python-350.jpg',
     title:'Python',
     para:'Classical cipher decryption using frequency analysis as well as other techinques like Kasiski test and the index of coincidence.',
-    link: 'https://phmaa.github.io/crypto'},
-    {image:'',
-    title:'',
-    para:'',
-    link: '#'},
-    {image:'',
-    title:'',
-    para:'',
-    link: '#'},
-    {image:'',
-    title:'',
-    para:'',
-    link: '#'}]
+    link: 'https://phmaa.github.io/crypto'}]
 }];
 
 function Project() {
