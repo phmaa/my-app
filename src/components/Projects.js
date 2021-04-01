@@ -46,14 +46,15 @@ const sections = [
     title:'Python',
     para:'Classical cipher decryption using frequency analysis as well as other techinques like Kasiski test and the index of coincidence.',
     link: 'https://phmaa.github.io/crypto'},
-    {image:'',
-    title:'Java',
-    para:''},
+    {image:'images/vampire-350.jpg',
+    title:'JavaScript',
+    para:'A team project that uses both user input and a random number generator to determine a person\'s likelihood of being a vampire.',
+    link: 'https://phmaa.github.io/vampire'},
     {image:'',
     title:'Android',
     para:''},
     {image:'',
-    title:'JavaScript',
+    title:'Java',
     para:''}]
 }];
 
