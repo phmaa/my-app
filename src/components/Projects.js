@@ -50,11 +50,12 @@ const sections = [
     title:'JavaScript',
     para:'A team project that uses both user input and a random number generator to determine a person\'s likelihood of being a vampire.',
     link: 'https://phmaa.github.io/vampire'},
+    {image:'images/java-350.jpg',
+    title:'Java',
+    para:'Dijkstra\'s shortest pahts alogrithm and Kosaraju\'s algorithm for finding strongly connected compoents of a directed graph.',
+    link: 'https://github.com/phmaa/Dijkstra-Shortest-Path'},
     {image:'',
     title:'Android',
-    para:''},
-    {image:'',
-    title:'Java',
     para:''}]
 }];
 
