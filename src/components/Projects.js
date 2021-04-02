@@ -53,7 +53,7 @@ const sections = [
     {image:'images/java-350.jpg',
     title:'Java',
     para:'Dijkstra\'s shortest pahts alogrithm and Kosaraju\'s algorithm for finding strongly connected compoents of a directed graph.',
-    link: 'https://github.com/phmaa/Dijkstra-Shortest-Path'},
+    link: 'https://phmaa.github.io/project-java'},
     {image:'',
     title:'Android',
     para:''}]
