@@ -23,7 +23,6 @@ img {
   border-radius: 5px;
   color: #333;
   display: block;
-  height: 1.75rem;
   font-weight: bold;
   margin: 0 auto;
   padding: .25rem;
@@ -74,11 +73,6 @@ header a {
 #projects h2 {
   font-family: 'Audiowide', cursive;
   padding: .5rem 0;
-}
-
-#projects a {
-  display: block;
-  padding: .5rem;
 }
 
 div img {
