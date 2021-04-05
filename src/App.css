@@ -48,6 +48,7 @@ nav {
 
 header a {
   color: #b2becc;
+  font-weight: bold;
   text-decoration: none;
 }
 
@@ -98,11 +99,13 @@ footer h2 {
 
 footer div {
   display: grid;
-  grid-template-columns: repeat(autofit, auto);
+  grid-template-columns: repeat(autofit, minmax(auto, 30px));
+  grid-gap: .5rem;
 }
 
 footer a {
   color: #b2becc;
+  grid-column: 1;
   padding-bottom: .5rem;
   text-decoration: none;
 }
