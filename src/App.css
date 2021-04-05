@@ -48,6 +48,7 @@ nav {
 
 header a {
   color: #b2becc;
+  font: 1.2rem 'Audiowide', cursive;
   font-weight: bold;
   text-decoration: none;
 }
@@ -89,7 +90,7 @@ div p {
 /** Footer **/
 footer {
   background-color: #333;
-  color: #a9b7c6;
+  color: #b2becc;
   padding: .25rem 0 1rem 1rem;
 }
 
@@ -97,17 +98,15 @@ footer h2 {
   margin: 0;
 }
 
-footer div {
-  display: grid;
-  grid-template-columns: repeat(autofit, minmax(auto, 30px));
-  grid-gap: .5rem;
-}
-
 footer a {
   color: #b2becc;
   grid-column: 1;
   padding-bottom: .5rem;
   text-decoration: none;
+}
+
+footer a:first-of-type {
+  padding-right: 2rem;
 }
 
 /** Typewriter **/
@@ -146,8 +145,8 @@ h1 {
 nav {
   display: grid;
   grid-auto-flow: column;
-  grid-gap: 20px;
-  grid-template-columns: repeat(3, 75px) 1fr;
+  grid-gap: 2rem;
+  grid-template-columns: repeat(3, auto) 1fr;
 }
 
 #webdev,
