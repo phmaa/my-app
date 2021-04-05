@@ -4,7 +4,7 @@ function Card(props) {
       <img src={props.image}  width="590" height="350"/>
       <h3>{props.title}</h3>
       <p>{props.para}</p>
-      {props.link && <i href={props.link} style='font-size:24px; color:#b2becc' class='fas'>&#xf35d;</i>}
+      {props.link && <a href={props.link} class='button'>Check It Out</a>}
     </div>
   );
 }
