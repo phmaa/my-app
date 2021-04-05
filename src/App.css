@@ -96,6 +96,11 @@ footer h2 {
   margin: 0;
 }
 
+footer div {
+  display: grid;
+  grid-template-columns: repeat(autofit, auto);
+}
+
 footer a {
   color: #b2becc;
   padding-bottom: .5rem;
