@@ -48,7 +48,7 @@ nav {
 
 header a {
   color: #b2becc;
-  font: 1.5rem 'Audiowide', cursive;
+  font: 1.2rem 'Audiowide', cursive;
   font-weight: bold;
   text-decoration: none;
 }
@@ -145,8 +145,8 @@ h1 {
 nav {
   display: grid;
   grid-auto-flow: column;
-  grid-gap: 20px;
-  grid-template-columns: repeat(3, 75px) 1fr;
+  grid-gap: .5rem;
+  grid-template-columns: repeat(3, auto) 1fr;
 }
 
 #webdev,
