@@ -5,8 +5,15 @@ function Footer() {
   return (
     <footer id="contact">
       <h2>Contact Me</h2>
-      <FontAwesomeIcon icon={['fab', 'github']} />
-      <a href="#" target="_blank"> GitHub</a>
+      <div>      
+        <FontAwesomeIcon icon={['fab', 'github']} />
+        <a href="#" target="_blank"> GitHub</a>
+      </div>
+      <div>      
+        <FontAwesomeIcon icon={['fab', 'linkedin']} />
+        <a href="#" target="_blank"> LinkedIn</a>
+      </div>
+
     </footer>
   );
 }

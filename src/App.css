@@ -19,7 +19,7 @@ img {
 }
 
 .button {
-  background-color: #a9b7c6;
+  background-color: #e5e9ee;
   border-radius: 5px;
   color: #333;
   display: block;
@@ -47,7 +47,7 @@ nav {
 }
 
 header a {
-  color: #a9b7c6;
+  color: #b2becc;
   text-decoration: none;
 }
 
@@ -97,7 +97,7 @@ footer h2 {
 }
 
 footer a {
-  color: #a9b7c6;
+  color: #b2becc;
   padding-bottom: .5rem;
   text-decoration: none;
 }
@@ -105,7 +105,7 @@ footer a {
 /** Typewriter **/
 #welcome {
   background-color: #333;
-  color: #a9b7c6;
+  color: #b2becc;
   height: 100vh;
   padding: 1rem;
 }

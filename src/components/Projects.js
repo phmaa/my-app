@@ -48,15 +48,15 @@ const sections = [
     link: 'https://phmaa.github.io/crypto'},
     {image:'images/vampire-350.jpg',
     title:'JavaScript',
-    para:'A team project that uses both user input and a random number generator to determine a person\'s likelihood of being a vampire.',
+    para:'A team project that interacts with users and applies Google Visualziation API to render results.',
     link: 'https://phmaa.github.io/vampire'},
     {image:'images/java-350.jpg',
     title:'Java',
     para:'Dijkstra\'s shortest pahts alogrithm and Kosaraju\'s algorithm for finding strongly connected compoents of a directed graph.',
     link: 'https://phmaa.github.io/project-java'},
-    {image:'',
+    {image:'images/android-350.jpg',
     title:'Android',
-    para:''}]
+    para:'A collection of Android apps featuring various components including activities, services, and content providers.'}]
 }];
 
 function Project() {
