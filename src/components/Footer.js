@@ -7,7 +7,7 @@ function Footer() {
       <h2>Contact Me</h2>
       <div>            
         <a href="https://github.com/phmaa" target="_blank"> <FontAwesomeIcon icon={['fab', 'github']} /></a>               
-        <a href="https://www.linkedin.com/in/hwey-maa/" target="_blank"> <FontAwesomeIcon icon={['fab', 'linkedin']} /></a>
+        <a href="https://www.linkedin.com/in/hwey-maa" target="_blank"> <FontAwesomeIcon icon={['fab', 'linkedin']} /></a>
       </div>
 
     </footer>
