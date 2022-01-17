@@ -1,5 +1,7 @@
 {
-  "python.pythonPath":"C:\\Users\\s1078510\\Anaconda3\\envs\\py37",
+  "python.pythonPath":"C:\\Users\\s1078510\\Anaconda3\\envs\\dataviz\\python.exe",
+
+  "python.condaPath": "C:\\Users\\s1078510\\Anaconda3\\Scripts\\conda.exe",
 
   "python.terminal.activateEnvironment": true,
 

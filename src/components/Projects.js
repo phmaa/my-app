@@ -22,22 +22,22 @@ const sections = [
               link: 'https://phmaa.github.io/animations/'}]
 },
   {
-      title:'Databases',
+      title:'Data Analytics',
       id:'database',
-      cards:[{image:'images/mysql-350.jpg',
-      title:'Transactional Databases',
-      para:'Querying and manipulating data from various RDBMS, including Microsoft SQL Server, Oracle, SQLite, MariaDB, PostgreSQL and MySQL.',
+      cards:[      {image:'images/package-350.jpg',
+      title:'Data Processing',
+      para:'Set data transformation and processing standards, automated task flows through ETL process and piped data off to a wide range of file types and destinations.'},
+      {image:'images/diagram-350.jpg',
+      title:'Data Model',
+      para:'Translated business requirements into optimized data structure and high-performance data models using BI tools including Power Query, Power BI and Qlik Sense.'},
+      {image:'images/mysql-350.jpg',
+      title:'Databases',
+      para:'Developed a wide range of systems from standalone RDBMS to cloud-based NoSQL and graph databases, built enhanced UI featuring streamlined querying process.',
       link: 'https://phmaa.github.io/scripts'},
       {image:'images/report-350.jpg',
-      title:'Data Reporting',
-      para:'Created enhanced reports and dynamic KPIs that allow users to access actionable data on the go or to make informed business decisions.',
-      link: 'https://phmaa.github.io/reporting/'},
-      {image:'images/diagram-350.jpg',
-      title:'OLAP',
-      para:'Consolidated a number of data sources into a single data warehouse and reorganized columnstore indexes to optimize query performance.'},
-      {image:'images/package-350.jpg',
-      title:'Data Integration',
-      para:'Built packages of automated workflows through ETL process and piped data off to a wide range of file types and destinations.'}]
+      title:'Reporting & Visualization',
+      para:'Created enhanced reports and dynamic KPIs to provide users with actionable insights seving as the basis of data-driven business decisions.',
+      link: 'https://phmaa.github.io/reporting/'}]
   },
   {
     title:'Programming',
@@ -52,11 +52,11 @@ const sections = [
     link: 'https://phmaa.github.io/vampire'},
     {image:'images/java-350.jpg',
     title:'Java',
-    para:'Dijkstra\'s shortest pahts alogrithm and Kosaraju\'s algorithm for finding strongly connected compoents of a directed graph.',
+    para:'Dijkstra\'s shortest paths alogrithm and Kosaraju\'s algorithm for finding strongly connected compoents of a directed graph.',
     link: 'https://phmaa.github.io/project-java'},
     {image:'images/android-350.jpg',
     title:'Android',
-    para:'A collection of Android apps featuring various components including activities, services, and content providers.'}]
+    para:'Applied OOP techniques to build and unit-test apps featuring various components including activities, services, and content providers.'}]
 }];
 
 function Project() {
