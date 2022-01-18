@@ -29,14 +29,14 @@ const sections = [
       para:'Set data transformation and processing standards, automated task flows through ETL process and piped data off to a wide range of file types and destinations.'},
       {image:'images/diagram-350.jpg',
       title:'Data Model',
-      para:'Translated business requirements into optimized data structure and high-performance data models using BI tools including Power Query, Power BI and Qlik Sense.'},
+      para:'Translated business requirements into optimized data structures and high-performance data models using BI tools including Power Query, Power BI and Qlik Sense.'},
       {image:'images/mysql-350.jpg',
       title:'Databases',
       para:'Developed a wide range of systems from standalone RDBMS to cloud-based NoSQL and graph databases, built enhanced UI featuring streamlined querying process.',
       link: 'https://phmaa.github.io/scripts'},
       {image:'images/report-350.jpg',
       title:'Reporting & Visualization',
-      para:'Created enhanced reports and dynamic KPIs to provide users with actionable insights seving as the basis of data-driven business decisions.',
+      para:'Created enhanced reports and dynamic KPIs to provide users with actionable insights serving as the basis of data-driven business decisions.',
       link: 'https://phmaa.github.io/reporting/'}]
   },
   {
