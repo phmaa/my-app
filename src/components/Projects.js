@@ -28,7 +28,7 @@ const sections = [
     link: 'https://phmaa.github.io/crypto'},
     {image:'images/vampire-350.jpg',
     title:'Docker Images',
-    para:'Developed Python Flask apps using Jinja2 templates. Deployed dockerized images to Google Cloud using Cloud Run',
+    para:'Developed Python Flask apps using Jinja2 templates. Deployed dockerized images to Google Cloud using Cloud Run.',
     link: 'https://inspire-ylbrla4qna-uc.a.run.app'},
     {image:'images/java-350.jpg',
     title:'Java',
