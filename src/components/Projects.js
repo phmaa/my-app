@@ -29,7 +29,7 @@ const sections = [
     {image:'images/vampire-350.jpg',
     title:'Docker Images',
     para:'Developed Python Flask apps using Jinja2 templates. Deployed dockerized images to Google Cloud using Cloud Run.',
-    link: 'https://inspire-ylbrla4qna-uc.a.run.app'},
+    link: 'https://inspire-fkp3.onrender.com/'},
     {image:'images/java-350.jpg',
     title:'Java',
     para:'Dijkstra\'s shortest paths alogrithm and Kosaraju\'s algorithm for finding strongly connected compoents of a directed graph.',
